@@ -37,6 +37,13 @@ In this repository, you will find implementations of the Supervised Learning alg
 
 Supervised Learning algorithms have a wide range of applications across various domains. This repository aims to provide real-world use cases and practical examples for each algorithm. You will find examples demonstrating how to apply the algorithms to solve regression problems, classification tasks, and other relevant scenarios. The use cases will showcase the algorithms' capabilities and guide you in leveraging them effectively in your own projects.
 
+## Author
+- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[Kaggle](https://www.kaggle.com/tusharaggarwal27)</b> 
+
 ## Contributing
 
 Contributions to MachineAlgoBox are highly encouraged! If you would like to contribute to this repository, you can add new algorithms, improve existing implementations, provide additional use cases, or suggest enhancements to the documentation. Please see the [Contribution Guidelines](CONTRIBUTING.md) for more information on how to contribute.
