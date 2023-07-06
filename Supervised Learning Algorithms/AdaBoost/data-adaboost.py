@@ -1,3 +1,4 @@
+#© 2023 Tushar Aggarwal. All rights reserved.(github.com/tushar2704)
 from sklearn.datasets import make_classification
 
 # Generate a synthetic dataset for classification
