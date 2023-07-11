@@ -28,3 +28,5 @@ class KNN:
         # majority voye
         most_common = Counter(k_nearest_labels).most_common()
         return most_common[0][0]
+    
+    
