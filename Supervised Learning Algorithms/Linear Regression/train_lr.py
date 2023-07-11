@@ -15,6 +15,7 @@ reg = LinearRegression(lr=0.01)
 reg.fit(X_train,y_train)
 predictions = reg.predict(X_test)
 
+
 def mse(y_test, predictions):
     return np.mean((y_test-predictions)**2)
 
