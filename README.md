@@ -1,7 +1,6 @@
 # MachineAlgoBox
 <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-
 MachineAlgoBox is a comprehensive collection of the most common machine learning algorithms by [Tushar Aggarwal](https://www.tushar-aggarwal.com/), implemented from scratch and accompanied by detailed use cases. This repository serves as a valuable resource for both beginners and experienced practitioners, providing a hands-on approach to understanding and implementing various machine learning techniques. Explore a wide range of algorithms, from classic ones like linear regression and decision trees to advanced methods such as neural networks and support vector machines. Each algorithm is accompanied by clear explanations, code implementations, and real-world use cases, enabling you to grasp their underlying principles and apply them to different problem domains. Whether you're seeking to learn, practice, or explore machine learning, MachineAlgoBox is your go-to repository for understanding and working with diverse algorithms.
 
 
