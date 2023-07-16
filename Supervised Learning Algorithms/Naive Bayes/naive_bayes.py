@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class NaiveBayes:
 
     def fit(self, X, y):
