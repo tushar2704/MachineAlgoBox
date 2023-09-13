@@ -19,11 +19,38 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ## Contents
 
-1. [Linear Regression](linear_regression/)
-2. [Decision Trees](decision_trees/)
-3. [Neural Networks](neural_networks/)
-4. [Support Vector Machines](support_vector_machines/)
-5. [And many more...](#)
+1. Adaboost
+![1](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4993b4eb-b66e-4c67-b1e0-48692f55cfe9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Author
 - <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
