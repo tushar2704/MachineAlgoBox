@@ -21,6 +21,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 1. Adaboost
 ![1](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4993b4eb-b66e-4c67-b1e0-48692f55cfe9)
+![2](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/6916eb9d-b0df-44c1-856b-a6fb19932598)
 
 
 
