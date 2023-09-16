@@ -27,6 +27,9 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![4](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a45ba404-521b-404b-b223-8cab560dc117)
 ![5](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/c03b9a9a-47f9-412c-9ae2-367e9af60712)
 
+### 3. DBSCAN
+![DBSCAN](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/0a597d76-09eb-4cc1-a433-a9161675b9ea)
+
 
 
 
