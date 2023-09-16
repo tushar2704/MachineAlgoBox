@@ -33,6 +33,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 4. DECISION TREE
 ![DECISION TREE](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/da34463b-e0a0-4558-969d-6328453facad)
+![DECISION TREE (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4e42ee84-641c-4962-8f16-97b67b121295)
 
 
 
