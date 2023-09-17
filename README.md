@@ -37,6 +37,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![DECISION TREE (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4e42ee84-641c-4962-8f16-97b67b121295)
 
 ### 5.DEEP Q Learning
+![DEEP Q-LEARNING](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/13d5ccf6-82f2-4af8-94df-317437a3be31)
 
 
 
