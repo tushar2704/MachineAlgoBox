@@ -10,42 +10,43 @@ Semi-supervised Learning is a subfield of machine learning that combines element
 MachineAlgoBox currently includes the following Semi-supervised Learning Algorithms:
 
 
-Self-training:
+1)Self-training:
     Self-training is a simple approach where a model is trained on the labeled data and then used to make predictions on unlabeled data. The confident predictions are added to the labeled set, and the process is iterated.
 
-Label Propagation:
+2)Label Propagation:
     Label Propagation algorithms use the similarity between data points to propagate labels from labeled instances to unlabeled ones in a graph or network.
 
-Semi-Supervised Support Vector Machines (S3VM):
+3)Semi-Supervised Support Vector Machines (S3VM):
     S3VM extends traditional Support Vector Machines (SVMs) to work with both labeled and unlabeled data. It aims to find a decision boundary that minimizes classification error on labeled data and simultaneously maintains a margin of separation from unlabeled data.
 
-Co-Training:
+4)Co-Training:
     Co-Training is a semi-supervised algorithm that uses multiple models, each trained on a different view or subset of the data. It assumes that these views are conditionally independent given the labels and can help improve performance when views provide complementary information.
 
-Tri-Training:
+5)Tri-Training:
     Tri-Training is an extension of Co-Training that uses three models instead of two. It reduces the risk of making erroneous decisions when using only two models.
 
-Multi-view Learning:
+6)Multi-view Learning:
     Multi-view learning methods leverage multiple representations or views of the data to improve learning accuracy. These can be useful for semi-supervised learning when different views contain complementary information.
 
-Multi-instance Learning:
+7)Multi-instance Learning:
     Multi-instance learning deals with datasets where the labels are assigned to bags of instances rather than individual instances. It is often used in semi-supervised scenarios where some bags are labeled and others are not.
 
-Deep Generative Models:
+8)Deep Generative Models:
     Deep generative models like Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) can be adapted for semi-supervised learning by incorporating labeled data into the training process.
 
-Transductive Support Vector Machines (TSVM):
+9)Transductive Support Vector Machines (TSVM):
     TSVM is an extension of traditional SVMs designed for semi-supervised learning. It seeks to find the decision boundary that best separates the labeled instances while respecting the distribution of the unlabeled instances.
 
-Pseudo-labeling:
+10)Pseudo-labeling:
     Pseudo-labeling combines self-training with techniques like confidence thresholding to decide which unlabeled instances to add to the labeled set.
 
-Mean-Teacher (MT) Networks:
+11)Mean-Teacher (MT) Networks:
     MT Networks are used in deep learning and semi-supervised settings. They involve training a model using a teacher-student paradigm, where the teacher network is an exponential moving average of the student network, helping stabilize training on unlabeled data.
 
-Mixture Models:
+12)Mixture Models:
     Mixture models like Gaussian Mixture Models (GMMs) can be used in semi-supervised learning to model the distribution of both labeled and unlabeled data points.
-Each algorithm will have its dedicated folder containing code implementations, relevant documentation, and examples.
+
+##### Each algorithm will have its dedicated folder containing code implementations, relevant documentation, and examples.
 
 ## Implementations
 
