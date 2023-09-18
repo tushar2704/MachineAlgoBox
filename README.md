@@ -42,6 +42,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![DEEP Q-LEARNING (3)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/897e38b6-6487-40b9-a363-356f3cbe5a5a)
 
 ### 6.FACTOR ANALYSIS OF CORRESPONDENCES
+![FACTOR ANALYSIS OF CORRESPONDENCES](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/eecedb45-7a97-4606-a469-8bd67b0f5a8e)
 
 
 
