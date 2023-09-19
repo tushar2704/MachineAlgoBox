@@ -47,6 +47,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 7.GAN 
 ![GAN](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/24c0565d-ef78-43d0-b43e-6db0654436a8)
+![GAN (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a671fbb9-1d3d-4df9-b88d-3ddcffe75b5a)
 
 
 
