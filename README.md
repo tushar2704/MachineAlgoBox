@@ -45,7 +45,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![FACTOR ANALYSIS OF CORRESPONDENCES](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/eecedb45-7a97-4606-a469-8bd67b0f5a8e)
 ![FACTOR ANALYSIS OF CORRESPONDENCES (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/26f48065-f122-4b38-97d7-683109035b9b)
 
-
+### 7.GAN 
 
 
 
