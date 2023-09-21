@@ -54,6 +54,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![GMM](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/6e6ec95e-7c04-487e-aa9b-23825c5ad70b)
 ![GMM (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4487a090-8d76-4e66-887d-07afa0574528)
 
+### 9.
+![GRAPH NEURAL NETWORKS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/44029f83-c05f-4891-b4a9-3d17cbc917d7)
 
 
 
