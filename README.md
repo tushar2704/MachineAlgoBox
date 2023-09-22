@@ -63,7 +63,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![GRADIENT DESCENT](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/5b0c2245-d6c2-4253-a98f-337bc9c6d7cd)
 ![GRADIENT DESCENT (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4d75d6cc-c7c6-43d9-9451-57ada24ce2e5)
 
-
+ 
 
 
 
