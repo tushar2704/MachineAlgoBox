@@ -67,6 +67,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![HIERARCHICAL CLUSTERING](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/92e872ea-0398-459c-bf73-c1324cbae70b)
 ![HIERARCHICAL CLUSTERING (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/bec8aae7-1fe7-4336-8f2c-72e0016612f9)
 
+### 12.
+![HIDDEN MARKOV MODEL (HMM)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/24cb0481-3bde-4409-9f43-8b919f6f05cf)
 
 
 
