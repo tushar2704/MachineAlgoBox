@@ -71,6 +71,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![HIDDEN MARKOV MODEL (HMM)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/24cb0481-3bde-4409-9f43-8b919f6f05cf)
 ![HIDDEN MARKOV MODEL (HMM) (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/75ab95ac-7a39-455d-84b8-e09c03aa3707)
 
+### 13.
+![ISOLATION FOREST](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4e38233f-2b37-4033-b26c-bba076e2e060)
 
 
 
