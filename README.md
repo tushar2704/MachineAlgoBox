@@ -75,7 +75,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![ISOLATION FOREST](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4e38233f-2b37-4033-b26c-bba076e2e060)
 ![ISOLATION FOREST (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/ec95aed9-57e8-4874-a4f4-c3a903de7d8f)
 
-### 14.
+### 14.INDEPENDENT COMPONENT ANALYSIS
 ![INDEPENDENT COMPONENT ANALYSIS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/88f0df55-a2ea-44c9-85c2-a16d231a95d6)
 
 
