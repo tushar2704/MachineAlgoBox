@@ -1,4 +1,4 @@
-# MachineAlgoBox         
+![ISOLATION FOREST](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/b70a0a49-e11b-4251-ad23-d5e8e5dd3546)# MachineAlgoBox         
 <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
@@ -74,7 +74,11 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ### 13.ISOLATION FOREST
 ![ISOLATION FOREST](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4e38233f-2b37-4033-b26c-bba076e2e060)
 ![ISOLATION FOREST (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/ec95aed9-57e8-4874-a4f4-c3a903de7d8f)
- 
+
+### 14.
+![INDEPENDENT COMPONENT ANALYSIS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/88f0df55-a2ea-44c9-85c2-a16d231a95d6)
+
+
  
 
 
