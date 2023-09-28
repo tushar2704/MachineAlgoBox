@@ -79,7 +79,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![INDEPENDENT COMPONENT ANALYSIS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/88f0df55-a2ea-44c9-85c2-a16d231a95d6)
 ![INDEPENDENT COMPONENT ANALYSIS (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/d25e35ee-ab90-46a5-87be-9407cefe80aa)
 
-
+### 15.
+![K-MEANS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a3f055cc-1cc9-4f20-88bb-bcaf6f04e73f)
 
 
  
