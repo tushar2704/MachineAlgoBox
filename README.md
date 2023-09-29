@@ -83,6 +83,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![K-MEANS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a3f055cc-1cc9-4f20-88bb-bcaf6f04e73f)
 ![K-MEANS (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/52a8a35a-706b-463f-966c-52707619d661)
 
+### 16.
+![K-NEAREST NEIGHBOUR](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4534a439-3df8-43a3-a5af-97ceae0ab3e1)
 
 
  
