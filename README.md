@@ -1,4 +1,4 @@
-![ISOLATION FOREST](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/b70a0a49-e11b-4251-ad23-d5e8e5dd3546)# MachineAlgoBox         
+# MachineAlgoBox
 <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
