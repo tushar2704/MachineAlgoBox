@@ -87,7 +87,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![K-NEAREST NEIGHBOUR](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/4534a439-3df8-43a3-a5af-97ceae0ab3e1)
 ![K-NEAREST NEIGHBOUR (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/135c8a6f-c8e5-4f2d-b01a-2a15c98866db)
   
-### 17.
+### 17.MEAN SHIFT
 ![MEAN SHIFT](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/204dcd21-ba31-4d6e-b496-bc6466b99c4d)
 
  
