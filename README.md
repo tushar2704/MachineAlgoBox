@@ -91,6 +91,9 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![MEAN SHIFT](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/204dcd21-ba31-4d6e-b496-bc6466b99c4d)
 ![MEAN SHIFT (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/db6ed700-5850-4f58-a5d6-6879fdb1aad2)
 
+### 18.
+![MOBILENET](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/8ad47825-f910-4a84-94b9-debe8ca25f58)
+
  
 
 
