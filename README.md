@@ -95,7 +95,9 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![MOBILENET](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/8ad47825-f910-4a84-94b9-debe8ca25f58)
 ![MOBILENET (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a26093ed-993f-4dae-bb08-71455a009934)
 
- 
+### 19.
+![MULTIMODAL PARALLEL NETWORK](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/07eb33a3-a02f-47ee-826e-09eb191d397c)
+
 
 
 
