@@ -97,6 +97,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 19.MULTIMODAL PARALLEL NETWORK
 ![MULTIMODAL PARALLEL NETWORK](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/07eb33a3-a02f-47ee-826e-09eb191d397c)
+![MULTIMODAL PARALLEL NETWORK (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/bdeca537-289a-4401-820d-2d48b7d98f7a)
 
 
 
