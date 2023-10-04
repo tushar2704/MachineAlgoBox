@@ -99,6 +99,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![MULTIMODAL PARALLEL NETWORK](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/07eb33a3-a02f-47ee-826e-09eb191d397c)
 ![MULTIMODAL PARALLEL NETWORK (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/bdeca537-289a-4401-820d-2d48b7d98f7a)
 
+### 20.
+![NAIVE BAYES CLASSIFIERS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/617f0f84-f759-422c-ba59-4ff7a6f70732)
 
 
 
