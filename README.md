@@ -103,6 +103,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![NAIVE BAYES CLASSIFIERS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/617f0f84-f759-422c-ba59-4ff7a6f70732)
 ![NAIVE BAYES CLASSIFIERS (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/9b1c39d8-3482-4939-87b0-baf809e2da9a)
 
+### 21.
+![PRINCIPAL COMPONENT ANALYSIS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a263e4e4-1129-42f3-946b-15704fc9fd43)
 
 
 
