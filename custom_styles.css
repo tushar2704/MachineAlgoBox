@@ -1,0 +1,33 @@
+.stApp > header {
+    background-color: transparent;
+}
+
+.stApp {
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    overflow: auto;
+    background: -webkit-linear-gradient(to right, #ada996, #f2f2f2, #dbdbdb, #eaeaea); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ada996, #f2f2f2, #dbdbdb, #eaeaea); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    animation: gradient 15s ease infinite;
+    background-size: 400% 400%;
+    background-attachment: fixed;
+}
+
+/* Gradient background for Streamlit sidebar */
+.sidebar-content {
+    background-image: linear-gradient(to bottom, #ada996, #eaeaea);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
