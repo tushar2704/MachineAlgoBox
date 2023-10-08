@@ -146,3 +146,12 @@ This repository is licensed under the [MIT License](LICENSE).
 Got questions, suggestions, or feedback? We'd love to hear from you! Connect with us on [Twitter](https://twitter.com/MachineAlgoBox) or [open an issue](https://github.com/your-username/MachineAlgoBox/issues) here on GitHub.
 
 Happy exploring and happy machine learning!
+
+
+
+
+
+MAchine Algo list
+1)Semi-Supervised learning
+  Co-Training, Deep Generative Models, Label Propagation, Mean-Teaher(MT) Networks,
+  Mixture Models, Multi-instance Learning, Multi-view Learning, Pseudo-Labeling,Self-training, Semi-Suprevised SVM, Transductive SVM, Tri-Training 
