@@ -107,6 +107,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![PRINCIPAL COMPONENT ANALYSIS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a263e4e4-1129-42f3-946b-15704fc9fd43)
 ![PRINCIPAL COMPONENT ANALYSIS (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/69a3c70e-88c2-4a46-8d8a-8d494384ee93)
 
+### 22.
+![PROXIMAL POLICY OPTIMIZATION](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/bd5e70a6-39b6-4050-bac2-46e13b6061a1)
 
 
 
