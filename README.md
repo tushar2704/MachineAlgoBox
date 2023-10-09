@@ -109,6 +109,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 22.PROXIMAL POLICY OPTIMIZATION
 ![PROXIMAL POLICY OPTIMIZATION](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/bd5e70a6-39b6-4050-bac2-46e13b6061a1)
+![PROXIMAL POLICY OPTIMIZATION (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/cbba9571-7c31-4a95-a7c1-71f315801e1c)
 
 
 
