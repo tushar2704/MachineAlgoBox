@@ -114,6 +114,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 23.Q-LEARNING
 ![Q-LEARNING](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/6de6fd9e-f939-4e94-94da-02130dea38a7)
+![Q-LEARNING (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/ffcb02f6-9777-4efd-af7b-f623a003900d)
 
 
 
