@@ -112,6 +112,9 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![PROXIMAL POLICY OPTIMIZATION (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/cbba9571-7c31-4a95-a7c1-71f315801e1c)
 ![PROXIMAL POLICY OPTIMIZATION (3)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/d326e6f2-2efd-4cd7-9cc5-7c209a077b7f)
 
+### 23.
+![Q-LEARNING](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/6de6fd9e-f939-4e94-94da-02130dea38a7)
+
 
 
 
