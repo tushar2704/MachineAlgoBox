@@ -119,6 +119,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 24.RANDOM FORESTS
 ![RANDOM FORESTS](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/f832ec3c-fef1-4556-bac7-3aa031fda3fb)
+![RANDOM FORESTS (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/5a70f104-fd3b-4c62-9ab1-c6b88c11e7e1)
 
 
 
