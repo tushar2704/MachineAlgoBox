@@ -125,7 +125,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![RECURRENT NEURAL NETWORK](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/2766f77a-58a8-42b2-bc21-0153615e0984)
 ![RECURRENT NEURAL NETWORK (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/9dc82151-b578-4f6d-8ee6-95b6581a8b07)
 
-### 26. 
+### 26.RESNET
 ![RESNET](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/38e7b7d4-964a-4aa9-8e64-a1ded77c7785)
 
 
