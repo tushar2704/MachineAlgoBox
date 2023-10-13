@@ -128,6 +128,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ### 26.RESNET
 ![RESNET](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/38e7b7d4-964a-4aa9-8e64-a1ded77c7785)
 ![RESNET (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/cddc77fc-cd5a-45c6-9d14-9d5b6d142746)
+![RESNET (3)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/671a61a8-415c-4d07-95fd-492514c031e2)
 
 
 
