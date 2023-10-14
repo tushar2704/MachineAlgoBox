@@ -130,7 +130,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![RESNET (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/cddc77fc-cd5a-45c6-9d14-9d5b6d142746)
 ![RESNET (3)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/671a61a8-415c-4d07-95fd-492514c031e2)
 
-### 27.
+### 27.STOCHASTIC GRADIENT DESCENT
 ![STOCHASTIC GRADIENT DESCENT](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a371d6ec-ad29-45af-a609-5872a40ccadf)
 
 
