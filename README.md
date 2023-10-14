@@ -132,6 +132,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 27.STOCHASTIC GRADIENT DESCENT
 ![STOCHASTIC GRADIENT DESCENT](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a371d6ec-ad29-45af-a609-5872a40ccadf)
+![STOCHASTIC GRADIENT DESCENT (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/fd462daf-2f13-42a6-a60c-c1fc2d06dd9e)
 
 
 
