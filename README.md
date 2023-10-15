@@ -134,7 +134,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![STOCHASTIC GRADIENT DESCENT](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a371d6ec-ad29-45af-a609-5872a40ccadf)
 ![STOCHASTIC GRADIENT DESCENT (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/fd462daf-2f13-42a6-a60c-c1fc2d06dd9e)
 
-### 28.
+### 28.SUPPORT VECTOR MACHINE
 ![SUPPORT VECTOR MACHINE](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/d9f657e2-42b6-41d1-9d45-f8307c583dcf)
 
 
