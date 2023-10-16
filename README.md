@@ -180,3 +180,14 @@ MAchine Algo list
 1)Semi-Supervised learning
   Co-Training, Deep Generative Models, Label Propagation, Mean-Teaher(MT) Networks,
   Mixture Models, Multi-instance Learning, Multi-view Learning, Pseudo-Labeling,Self-training, Semi-Suprevised SVM, Transductive SVM, Tri-Training 
+
+2)Supervised Learning
+  AdaBoost, Artificial Neural Networks, Decision Trees, Gradient Boosting, K-Nearest Neighbors, Linear Regression, Logistic Regression, Naive Bayes, Perceptron, Random Forests,
+  Support Vector Machines, Support Vector Regression
+
+
+
+
+
+
+
