@@ -138,7 +138,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![SUPPORT VECTOR MACHINE](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/d9f657e2-42b6-41d1-9d45-f8307c583dcf)
 ![SUPPORT VECTOR MACHINE (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/0474beec-6f60-4c25-9768-8deef8cd9caa)
 
-
+### 29.
+![WAVENET](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/54c46bc3-3a7b-4b0d-b235-ca6ed29b5131)
 
 
 
