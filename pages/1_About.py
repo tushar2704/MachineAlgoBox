@@ -18,8 +18,8 @@ from io import BytesIO
 ##############################################################################################################
 #Streamlit page config
 ##############################################################################################################
-st.set_page_config(page_title="Stats Mosaic 📊",
-                   page_icon=":📊:",
+st.set_page_config(page_title="MachineAlgoBox",
+                   page_icon=":🤖:",
                    layout='wide')
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """
@@ -40,14 +40,14 @@ with open('custom_styles.css') as f:
 
 st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 #title
-st.title("Stats Mosaic 📊")
+st.title("MachineAlgoBox")
 st.markdown('''<style>
             div.block-container{padding-top: 0px;}
             font-family: 'Roboto', sans-serif; /* Add Roboto font */
             color: blue; /* Make the text blue */
             </style>''',
             unsafe_allow_html=True)
-st.markdown("Welcome to the Stats Mosaic! Explore and visualize important statistical topics with interactive and informative visuals. Whether you're a data enthusiast, student, or professional, Stats Mosaic provides a comprehensive overview of various statistical concepts.")
+st.markdown("Welcome to the MachineAlgoBox! ")
 st.markdown("""[Tushar-Aggarwal.com](https://tushar-aggarwal.com/)""")
 
 

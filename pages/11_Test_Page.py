@@ -18,8 +18,8 @@ from io import BytesIO
 ##############################################################################################################
 #Streamlit page config
 ##############################################################################################################
-st.set_page_config(page_title="Stats Mosaic 📊",
-                   page_icon=":📊:",
+st.set_page_config(page_title="MachineAlgoBox🤖",
+                   page_icon=":🤖:",
                    layout='wide')
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """
