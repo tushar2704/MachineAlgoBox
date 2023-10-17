@@ -39,7 +39,7 @@ with open('custom_styles.css') as f:
 
 st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 #title
-st.title("Data Sampling 📊")
+st.title("Deep Learning Algorithms")
 st.markdown('''<style>
             div.block-container{padding-top: 0px;}
             font-family: 'Roboto', sans-serif; /* Add Roboto font */
