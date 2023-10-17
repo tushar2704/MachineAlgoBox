@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "1.0.0"
 
-REPO_NAME = "Stats-Mosaic"
+REPO_NAME = "MachineAlgoBox"
 AUTHOR_USER_NAME = "tushar2704"
-SRC_REPO = "Stats-Mosaic"
+SRC_REPO = "MachineAlgoBox"
 AUTHOR_EMAIL = "tushar.27041994@gmail.com"
 
 
@@ -17,7 +17,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="Stats Mosaic- ST App",
+    description="MachineAlgoBox - ST App",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
