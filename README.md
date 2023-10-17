@@ -140,6 +140,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 29. WAVENET
 ![WAVENET](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/54c46bc3-3a7b-4b0d-b235-ca6ed29b5131)
+![Uploading WAVENET (2).png…]()
 
 
 
