@@ -17,8 +17,8 @@ import streamlit as st
 ##############################################################################################################
 #Streamlit page config
 ##############################################################################################################
-st.set_page_config(page_title="Stats Mosaic 📊",
-                   page_icon=":📊:",
+st.set_page_config(page_title="MachineAlgoBox🤖",
+                   page_icon=":🤖:",
                    layout='wide')
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """
@@ -42,8 +42,8 @@ st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 
 title_html = """
 <div style="background: linear-gradient(to left, #ada996 , #f2f2f2 ); padding: 30px; border-radius: 10px;">
-    <h2 style="color:  	#011f4b;">Stats Mosaic 📊</h2>
-    <p style="color:  	#011f4b;">Welcome to the Stats Mosaic! Explore and visualize important statistical topics with interactive and informative visuals. Whether you're a data enthusiast, student, or professional, Stats Mosaic provides a comprehensive overview of various statistical concepts.</p>
+    <h2 style="color:  	#011f4b;">MachineAlgoBox 🤖</h2>
+    <p style="color:  	#011f4b;">Welcome to the MachineAlgoBox! Explore and visualize important Machine Learning Algorithms with interactive and informative visuals. Whether you're a data enthusiast, student, or professional, Stats Mosaic provides a comprehensive overview of various statistical concepts.</p>
     <p style="color:  	#011f4b;"><a href="https://tushar-aggarwal.com/" style="color:  	#011f4b; text-decoration: none;">Tushar-Aggarwal.com</a></p>
 
 </div>
