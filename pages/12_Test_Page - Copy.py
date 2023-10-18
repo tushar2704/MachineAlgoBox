@@ -113,8 +113,19 @@ text= "testing sidebar"
 from src.MachineAlgoBox.components.siderbar import *
 
 
-sidebar_1(text)
 
+
+
+from src.MachineAlgoBox.components.body import *
+title_text = "Streamlit Example"
+header_text = "Header Text"
+subheader_text = "Subheader Text"
+markdown_text = "This is a **markdown** example."
+write_text = "This is a write example"
+code_text = "print('Hello, Streamlit!')"
+
+main_body(title=title_text)
+main_body(header=header_text, subheader=subheader_text, markdown=markdown_text, write=write_text, code=code_text)
 
 
 

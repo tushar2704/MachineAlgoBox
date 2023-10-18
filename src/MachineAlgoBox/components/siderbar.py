@@ -14,9 +14,8 @@ sys.path.append(str(project_root))
 ##############################################################################################################
 
 
-def sidebar_1(text):
-    st.title("Testing 101")
-    st.markdown(" ### Testing 102")
+def sidebar_main(text):
+    
     st.sidebar.write(text)
 
 
