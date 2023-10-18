@@ -18,7 +18,7 @@ from io import BytesIO
 ##############################################################################################################
 #Streamlit page config
 ##############################################################################################################
-st.set_page_config(page_title="MachineAlgoBox",
+st.set_page_config(page_title="MachineAlgoBox🤖",
                    page_icon=":🤖:",
                    layout='wide')
 # ---- HIDE STREAMLIT STYLE ----

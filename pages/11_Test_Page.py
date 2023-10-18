@@ -11,7 +11,11 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 from io import BytesIO
-
+import sys
+from pathlib import Path
+script_dir = Path(__file__).resolve().parent
+project_root = script_dir.parent
+sys.path.append(str(project_root))
 
 
 
