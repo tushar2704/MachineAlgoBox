@@ -142,7 +142,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![WAVENET](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/54c46bc3-3a7b-4b0d-b235-ca6ed29b5131)
 ![Uploading WAVENET (2).png…]()
 
-
+### 30.
+![ARMA_ARIMA MODEL](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/f1ac22a8-2de6-433b-aa4c-4c2e6dda8e8d)
 
 
 
