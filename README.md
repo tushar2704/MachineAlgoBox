@@ -144,6 +144,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 
 ### 30.ARMA_ARIMA MODEL
 ![ARMA_ARIMA MODEL](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/f1ac22a8-2de6-433b-aa4c-4c2e6dda8e8d)
+![ARMA_ARIMA MODEL (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/1166897e-2971-41c9-9892-8efedaafb4b9)
 
 
 
