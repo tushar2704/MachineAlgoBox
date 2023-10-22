@@ -154,6 +154,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ### 32.LSTM
 ![LSTM](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/3ffd5555-e974-463e-89eb-f40bcaaff8a1)
 ![LSTM (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/ae5654f7-5f47-4ef4-bad4-65342c5e76c1)
+![LSTM (3)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/95e2b618-5ea2-4424-a3ba-ab27b01e5204)
 
 
 
