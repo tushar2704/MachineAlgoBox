@@ -151,6 +151,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![BERT](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/99eb817d-6aee-426c-ac9b-6044a6e81644)
 ![Uploading BERT (2).png…]()
 
+### 32.
+![LSTM](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/3ffd5555-e974-463e-89eb-f40bcaaff8a1)
 
 
 
