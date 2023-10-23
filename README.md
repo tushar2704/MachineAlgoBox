@@ -156,7 +156,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![LSTM (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/ae5654f7-5f47-4ef4-bad4-65342c5e76c1)
 ![LSTM (3)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/95e2b618-5ea2-4424-a3ba-ab27b01e5204)
 
-### 33.
+### 33.ADAM OPTIMIZATION
 ![ADAM OPTIMIZATION](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/ab242357-7a52-4937-b1d7-93b455f73d15)
 
 
