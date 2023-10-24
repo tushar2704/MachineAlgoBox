@@ -160,6 +160,8 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 ![ADAM OPTIMIZATION](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/ab242357-7a52-4937-b1d7-93b455f73d15)
 ![ADAM OPTIMIZATION (2)](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/a2360a35-581f-400b-81d6-b292fc1608c5)
 
+### 34.
+![XGBOOST](https://github.com/tushar2704/MachineAlgoBox/assets/66141195/eeac3fc5-9f9a-4001-b491-689bc7505a67)
 
 
 
