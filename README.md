@@ -18,7 +18,7 @@ MachineAlgoBox is a comprehensive collection of the most common machine learning
 3. Follow the provided instructions in the README file of each algorithm folder to run and understand the algorithm.
 4. Dive into the use cases folder to see the algorithms in action in real-world scenarios.
 
-## Contents
+## Contents 
 
 
 ### 1. Adaboost
