@@ -3,11 +3,11 @@
 #Importing required library
 ##############################################################################################################
 import random
-import duckdb
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-import streamlit as st
+# import duckdb
+# import pandas as pd
+# import plotly.express as px
+# import plotly.graph_objects as go
+# import streamlit as st
 import sys
 from pathlib import Path
 script_dir = Path(__file__).resolve().parent

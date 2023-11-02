@@ -16,7 +16,13 @@ from pathlib import Path
 script_dir = Path(__file__).resolve().parent
 project_root = script_dir.parent
 sys.path.append(str(project_root))
-
+# SRC imports
+from src.MachineAlgoBox.components.siderbar import *
+from src.MachineAlgoBox.components.body import *
+from src.MachineAlgoBox.components.charts import *
+from src.MachineAlgoBox.components.header import *
+from src.MachineAlgoBox.components.metrics import *
+from src.MachineAlgoBox.components.navigation import *
 
 ##############################################################################################################
 #Streamlit page config
@@ -108,24 +114,10 @@ st.markdown('''<style>
 #         key="download_histogram"
 #     )
 
-text= "testing sidebar"
-
-from src.MachineAlgoBox.components.siderbar import *
 
 
+main_header(title="title")
 
-
-
-from src.MachineAlgoBox.components.body import *
-title_text = "Streamlit Example"
-header_text = "Header Text"
-subheader_text = "Subheader Text"
-markdown_text = "This is a **markdown** example."
-write_text = "This is a write example"
-code_text = "print('Hello, Streamlit!')"
-
-main_body(title=title_text)
-main_body(header=header_text, subheader=subheader_text, markdown=markdown_text, write=write_text, code=code_text)
 
 
 
