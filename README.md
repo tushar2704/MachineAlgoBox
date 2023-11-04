@@ -196,7 +196,6 @@ Happy exploring and happy machine learning!
 
 
 
-
 MAchine Algo list
 1)Semi-Supervised learning
   Co-Training, Deep Generative Models, Label Propagation, Mean-Teaher(MT) Networks,
