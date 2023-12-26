@@ -1,0 +1,14 @@
+[global]
+# disableWatchdogWarning = true
+[server]
+runOnSave =true
+[browser]
+gatherUsageStats = true
+[deprecation]
+# showfileUploaderEncoding = false
+# showPyplotGlobalUse =false
+[logger]
+# Default: "%(asctime)s %(message)s"
+# messageFormat = "%(asctime)s %(message)s"
+[theme]
+textColor = "#042940"
